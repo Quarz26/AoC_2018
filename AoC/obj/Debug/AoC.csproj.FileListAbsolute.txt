@@ -1,0 +1,7 @@
+E:\Vid\AoC\AoC\AoC\bin\Debug\AoC.exe.config
+E:\Vid\AoC\AoC\AoC\bin\Debug\AoC.exe
+E:\Vid\AoC\AoC\AoC\bin\Debug\AoC.pdb
+E:\Vid\AoC\AoC\AoC\obj\Debug\AoC.csprojAssemblyReference.cache
+E:\Vid\AoC\AoC\AoC\obj\Debug\AoC.csproj.CoreCompileInputs.cache
+E:\Vid\AoC\AoC\AoC\obj\Debug\AoC.exe
+E:\Vid\AoC\AoC\AoC\obj\Debug\AoC.pdb
