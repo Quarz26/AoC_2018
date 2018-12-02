@@ -11,43 +11,47 @@ namespace AoC
         static void Main(string[] args)
         {
             string[] lines = System.IO.File.ReadAllLines(@"C:\Users\Vid\Desktop\inputDay2.txt");
-            Array.Sort(lines);
 
-            //List<string> dict = new List<string>();
-            //foreach (string s in lines)
-            //{
-
-            //    string intersection = String.Concat(s.Intersect(lines));
-            //}
             bool exit = true;
 
-            for(int i = 0; i < lines.Length; i++)
+            for (int i = 0; i < lines.Length; i++)
             {
                 string first = lines[i];
 
-                for(int j = 0; j < lines.Length; j++)
+                for (int j = i + 1; j < lines.Length; j++)
                 {
                     string second = lines[j];
-                    string intersection = String.Concat(first.Intersect(second));
+                    int diff = compare(first, second);
 
-                    if(intersection.Length == 25)
+                    if(diff == 25)
                     {
-                        string result = String.Concat(first.Where(c => intersection.Contains(c)));
-                        Console.WriteLine(result);
                         exit = false;
+                        for(int k = 0; k < 26; k++)
+                        {
+                            if (first[k] == second[k])
+                                Console.Write(first[k]);
+                        }
+                        Console.Write("\n");
                         break;
                     }
+
                 }
 
                 if (!exit) break;
             }
 
-            //dict.Sort();
+        }
 
-            //foreach(string s in dict)
-            //{
+        public static int compare(string word1, string word2)
+        {
+            int count = 0;
+            for (int i = 0; i < word1.Length; i++)
+            {
+                if (word1[i] == word2[i])
+                    count++;
+            }
 
-            //}
+            return count;
         }
     }
 }
