@@ -5,3 +5,10 @@ E:\Vid\AoC\AoC\AoC\obj\Debug\AoC.csprojAssemblyReference.cache
 E:\Vid\AoC\AoC\AoC\obj\Debug\AoC.csproj.CoreCompileInputs.cache
 E:\Vid\AoC\AoC\AoC\obj\Debug\AoC.exe
 E:\Vid\AoC\AoC\AoC\obj\Debug\AoC.pdb
+C:\Users\Vid\Source\Repos\Quarz26\AoC_2018\AoC\obj\Debug\AoC.csprojAssemblyReference.cache
+C:\Users\Vid\Source\Repos\Quarz26\AoC_2018\AoC\obj\Debug\AoC.csproj.CoreCompileInputs.cache
+C:\Users\Vid\Source\Repos\Quarz26\AoC_2018\AoC\obj\Debug\AoC.exe
+C:\Users\Vid\Source\Repos\Quarz26\AoC_2018\AoC\obj\Debug\AoC.pdb
+C:\Users\Vid\Source\Repos\Quarz26\AoC_2018\AoC\bin\Debug\AoC.exe.config
+C:\Users\Vid\Source\Repos\Quarz26\AoC_2018\AoC\bin\Debug\AoC.exe
+C:\Users\Vid\Source\Repos\Quarz26\AoC_2018\AoC\bin\Debug\AoC.pdb
