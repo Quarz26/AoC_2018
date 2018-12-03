@@ -16,7 +16,7 @@ namespace AoC
             int[] counter;
 
 
-            System.IO.StreamReader input = new System.IO.StreamReader(@"C:\Users\Vid\Desktop\inputDay2.txt");
+            System.IO.StreamReader input = new System.IO.StreamReader(@"E:\Vid\AoC\AoC\AoC\inputDay2.txt");
 
             while ((line = input.ReadLine()) != null)
             {

@@ -10,7 +10,7 @@ namespace AoC
     {
         static void Main(string[] args)
         {
-            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\Vid\Desktop\inputDay2.txt");
+            string[] lines = System.IO.File.ReadAllLines(@"E:\Vid\AoC\AoC\AoC\inputDay2.txt");
 
             bool exit = true;
 

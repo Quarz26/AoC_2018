@@ -12,3 +12,10 @@ C:\Users\Vid\Source\Repos\Quarz26\AoC_2018\AoC\obj\Debug\AoC.pdb
 C:\Users\Vid\Source\Repos\Quarz26\AoC_2018\AoC\bin\Debug\AoC.exe.config
 C:\Users\Vid\Source\Repos\Quarz26\AoC_2018\AoC\bin\Debug\AoC.exe
 C:\Users\Vid\Source\Repos\Quarz26\AoC_2018\AoC\bin\Debug\AoC.pdb
+C:\Users\juric\Source\Repos\Quarz26\AoC_2018\AoC\bin\Debug\AoC.exe.config
+C:\Users\juric\Source\Repos\Quarz26\AoC_2018\AoC\bin\Debug\AoC.exe
+C:\Users\juric\Source\Repos\Quarz26\AoC_2018\AoC\bin\Debug\AoC.pdb
+C:\Users\juric\Source\Repos\Quarz26\AoC_2018\AoC\obj\Debug\AoC.csprojAssemblyReference.cache
+C:\Users\juric\Source\Repos\Quarz26\AoC_2018\AoC\obj\Debug\AoC.csproj.CoreCompileInputs.cache
+C:\Users\juric\Source\Repos\Quarz26\AoC_2018\AoC\obj\Debug\AoC.exe
+C:\Users\juric\Source\Repos\Quarz26\AoC_2018\AoC\obj\Debug\AoC.pdb
