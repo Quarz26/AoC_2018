@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace AoC
 {
-    class Day8_task1
+    class Day8_task1_and_2
     {
         static void Main(string[] args)
         {
