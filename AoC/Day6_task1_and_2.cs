@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AoC
 {
-    class Day6_task1_and2
+    class Day6_task1_and_2
     {
         static void Main(string[] args)
         {
